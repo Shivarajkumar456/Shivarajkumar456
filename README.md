@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shivarajkumar456
 - 👀 I’m interested in web development and python coding .
-- 🌱 I’m currently learning html, css, javascript, python and mysql.
+- 🌱 I’m currently learning html, css, javascript, Reactjs, python and mysql.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me ...
 
